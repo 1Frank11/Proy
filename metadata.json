@@ -1,0 +1,5 @@
+{
+  "name": "Seguros de Salud Nacional - Sistema Anti-Fraude",
+  "description": "Sistema de detección de fraudes en seguros de salud utilizando análisis de datos y métricas de ML.",
+  "requestFramePermissions": []
+}
